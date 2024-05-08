@@ -9,11 +9,11 @@
 
 <p>
   <img align="right"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ATRX81&langs_count=8&theme=react" />
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ATRX81&langs_count=8&theme=vision-friendly-dark" />
 </p>
 
-<a href="https://github.com/ATRX81"><img alt="TheSpeedX's Github Stats"
-    src="https://github-readme-stats.vercel.app/api?username=ATRX81&show_icons=true&count_private=true&theme=react&bg_color=151515" /></a>
+<a href="https://github.com/ATRX81"><img alt="ATRX81"
+    src="https://github-readme-stats.vercel.app/api?username=ATRX81&show_icons=true&count_private=true&theme=vision-friendly-dark" /></a>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ATRX81&theme=black-ice"
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ATRX81&theme=vision-friendly-dark"
     alt="ATRX81" /></p>
